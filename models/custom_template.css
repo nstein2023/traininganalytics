@@ -100,11 +100,6 @@ caption {
   margin-bottom: 16px;
 }
 
-thead {
-  background-color: #023059;
-  color: #FFFFFF;
-}
-
 .total {
     border-top: 2px solid #000000 !important;
     font-weight: bold !important;
