@@ -45,6 +45,7 @@
 }
 
 .reportTable th {
+    background-color: #023059;
     color: 	#FFFFFF;
     border: 1px solid #cccccc;
     border-bottom: 1px solid #cccccc !important;
@@ -55,7 +56,7 @@
     /* Add other existing customizations here  */
     
 .reportTable td {
-    color: #000000;
+    color: #FFFFFF;
     vertical-align: super;
     padding: 5px;
     /*background: #FFFFFF;*/
