@@ -37,7 +37,7 @@
 .reportTable {
     font-family: Open Sans, Helvetica, Arial, sans-serif;
     font-size: 12px;
-    border: 2px solid #000080;
+    border: 2px solid #023059;
     border-collapse: collapse;
     border-spacing: 3px;
   
@@ -101,7 +101,7 @@ caption {
 }
 
 thead {
-  background-color: #000080;
+  background-color: #023059;
   color: #FFFFFF;;
 }
 
