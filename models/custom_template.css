@@ -52,14 +52,13 @@
     /* height: 25px; */
     padding: 5px;
 
-
+}
     h1, h2, h3, h4, h5, h6 {
     color: #FFFFFF; /* White color in hex */
 }
   
     /* Add other existing customizations here  */
-}
-
+    
 .reportTable td {
     color: #000000;
     vertical-align: super;
