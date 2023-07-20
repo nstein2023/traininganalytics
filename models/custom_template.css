@@ -45,14 +45,18 @@
 }
 
 .reportTable th {
-    background-color: #023059;
     color: 	#FFFFFF;
     border: 1px solid #cccccc;
     border-bottom: 1px solid #cccccc !important;
     /* font-size: 10px;  */
     /* height: 25px; */
     padding: 5px;
+
 }
+    h1, h2, h3, h4, h5, h6 {
+    color: #FFFFFF; /* White color in hex */
+}
+  
     /* Add other existing customizations here  */
     
 .reportTable td {
@@ -98,6 +102,11 @@ caption {
   text-align: left;
   color: #FFFFFF;
   margin-bottom: 16px;
+}
+
+thead {
+  background-color: #023059;
+  color: #FFFFFF;
 }
 
 .total {
