@@ -40,7 +40,6 @@
     border: 2px solid #023059;
     border-collapse: collapse;
     border-spacing: 3px;
-    color: white;
   
     /* Add other existing customizations here  */
 }
@@ -101,7 +100,7 @@ caption {
   margin-bottom: 16px;
 }
 
-.thead {
+thead {
   background-color: #023059;
   color: #FFFFFF;
 }
